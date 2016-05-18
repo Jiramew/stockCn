@@ -1,0 +1,12 @@
+Package: StockCn
+Type: Package
+Title: Collecting Chinese Stock data
+Version: 0.1
+Date: 2015-04-27
+Author: Hanbing Yang
+Depends: R (>= 3.0.2)
+Imports: rjson
+LazyData: true
+Maintainer: Hanbing Yang <hanbingflying@sina.com>
+Description: Collecting Chinese Stock data and showing some possible visualization
+License: GPL
